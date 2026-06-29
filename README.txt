@@ -1,0 +1,1 @@
+Place logo.png in the project root and edit questions.js.
